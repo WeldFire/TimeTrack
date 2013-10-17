@@ -11,6 +11,5 @@ Window names can also be modified using regular expressions to fit your liking.
 
 Future implementations:
 Preform final save before shutdown
-Preferences
 Navigation Between days
 Preferences - Idle timeout
