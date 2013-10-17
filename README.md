@@ -9,7 +9,4 @@ Screenshots can also be logged if enabled when a new active window is selected.
 
 Window names can also be modified using regular expressions to fit your liking.
 
-Future implementations:
-Preform final save before shutdown
-Navigation Between days
-Preferences - Idle timeout
+Future implementations: Preform final save before shutdown, Navigation Between days, Add idle timeout preference
