@@ -1,0 +1,12 @@
+C:\Users\WeldFire\Documents\Dropbox\Programming\C#\2013\TimeTrack\TimeTrack\bin\Debug\TimeTrack.exe.config
+C:\Users\WeldFire\Documents\Dropbox\Programming\C#\2013\TimeTrack\TimeTrack\bin\Debug\TimeTrack.exe
+C:\Users\WeldFire\Documents\Dropbox\Programming\C#\2013\TimeTrack\TimeTrack\bin\Debug\TimeTrack.pdb
+C:\Users\WeldFire\Documents\Dropbox\Programming\C#\2013\TimeTrack\TimeTrack\obj\Debug\TimeTrack.csprojResolveAssemblyReference.cache
+C:\Users\WeldFire\Documents\Dropbox\Programming\C#\2013\TimeTrack\TimeTrack\obj\Debug\TimeTrack.MainForm.resources
+C:\Users\WeldFire\Documents\Dropbox\Programming\C#\2013\TimeTrack\TimeTrack\obj\Debug\TimeTrack.Properties.Resources.resources
+C:\Users\WeldFire\Documents\Dropbox\Programming\C#\2013\TimeTrack\TimeTrack\obj\Debug\TimeTrack.csproj.GenerateResource.Cache
+C:\Users\WeldFire\Documents\Dropbox\Programming\C#\2013\TimeTrack\TimeTrack\obj\Debug\TimeTrack.exe
+C:\Users\WeldFire\Documents\Dropbox\Programming\C#\2013\TimeTrack\TimeTrack\obj\Debug\TimeTrack.pdb
+C:\Users\WeldFire\Documents\Dropbox\Programming\C#\2013\TimeTrack\TimeTrack\obj\Debug\TimeTrack.listBuilderForm.resources
+C:\Users\WeldFire\Documents\Dropbox\Programming\C#\2013\TimeTrack\TimeTrack\obj\Debug\TimeTrack.LogOverviewForm.resources
+C:\Users\WeldFire\Documents\Dropbox\Programming\C#\2013\TimeTrack\TimeTrack\obj\Debug\TimeTrack.InputOverwriteForm.resources
